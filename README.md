@@ -1,66 +1,72 @@
+<!-- ========================================================= -->
+<!-- HEADER SECTION : Clean, Centered, and Straight to the point -->
+<!-- ========================================================= -->
 <div align="center">
-  <h1>Hi there! 👋 I'm Moch. Ramzi Daffa Putra</h1>
-  <h3>Full-Stack Developer | Crafting Modern Web & Mobile Experiences</h3>
+  <h1>Hi 👋, I'm Raviraj Avaghade</h1>
+  <h3>Crafting Scalable Systems | Java • Spring Boot • React</h3>
+
+  <p>
+    <a href="mailto:ravirajavaghade508@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/raviraj-avaghade-413b0b301/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/RavirajAvaghade"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.instagram.com/raviraj_____17/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
   
-  <p align="center">
-    <a href="https://linkedin.com/in/moch-ramzi-daffa-putra-13738922a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://instagram.com/ramzy_daffa"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ravirajavaghade&label=Profile%20Views&color=0a66c2&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Open_To_Work-Full_Time_/_Internship-22c55e?style=flat-square" alt="Status" />
   </p>
 </div>
 
 ---
 
-## 🚀 About Me
-- 💻 Currently focusing on modern web and mobile development.
-- 🧠 Always learning new technologies and best practices.
+### 👨‍💻 A Little Bit About Me
+I am a passionate **Full Stack Developer** from India 🇮🇳, specializing in building robust, production-ready applications. I enjoy tackling complex system designs and translating them into clean, maintainable code.
 
-## 🛠️ Tech Arsenal
-
-**Frontend & Mobile Development**
-<br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & APIs**
-<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) 
-
-**Database & ORM**
-<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Ecosystem, Libraries & Tools**
-<br>
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-<br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+*   🔭 **Currently focusing on:** Microservices Architecture, Cloud Technologies, and System Design.
+*   🌱 **Deep diving into:** Spring Data JPA, Hibernate, Kafka, and Cloud Deployments.
+*   🤝 **Looking to collaborate on:** Open Source Java / React ecosystems.
+*   ☕ **Fun Fact:** I convert coffee into high-performance REST APIs.
 
 ---
 
-## 📈 GitHub Analytics
+### 🛠️ Tech Stack & Arsenal
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=RamzGxZs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=RamzGxZs&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RamzGxZs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+<!-- Menggunakan skillicons.dev agar seragam, tidak perlu banyak badge beda ukuran -->
+**Backend & Architecture** <br>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,kafka,redis&theme=dark" alt="Backend Stack" />
 
-## 🏆 Achievements & Contributions
+**Frontend Development** <br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,bootstrap,html,css&theme=dark" alt="Frontend Stack" />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamzGxZs&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-  <br><br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=RamzGxZs&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
+**Cloud, DevOps & Tools** <br>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,idea,vscode,postman&theme=dark" alt="DevOps Stack" />
 
 ---
 
+### 🚀 Featured Engineering Projects
+
+<!-- Menggunakan tabel Markdown bawaan yang lebih rapi ketimbang tabel HTML nested -->
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🚗 **[Car Rental System](https://github.com/ravirajavaghade)** | Real-time booking system with vehicle tracking and role-based access control. | `Java` `Spring Boot` `React` `MySQL` |
+| 🏥 **[Hospital Mgmt](https://github.com/ravirajavaghade)** | Complete management system for patient records, scheduling, and doctor portals. | `Spring Boot` `Hibernate` `React` |
+| 📚 **[E-Book Platform](https://github.com/ravirajavaghade)** | Digital library with secure authentication, reading history, and categorized browsing. | `React` `Spring Boot` `REST API` |
+| 🔐 **[Auth Microservice](https://github.com/ravirajavaghade)** | Standalone JWT-based authentication service with Spring Security and role management. | `Spring Security` `JWT` `MySQL` |
+| 🎂 **[Cake Shopping App](https://github.com/ravirajavaghade)** | Feature-rich e-commerce ordering app with product catalog and shopping cart. | `React` `JavaScript` `Bootstrap` |
+
+---
+
+### 📈 GitHub Analytics
+
+<!-- Menggunakan tema 'tokyonight' tanpa border agar menyatu mulus dengan Dark Mode GitHub -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  <br><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=RamzGxZs&icon=0&color=0&label=PROFILE+VIEWS" alt="Profile Views">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ravirajavaghade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0a66c2" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravirajavaghade&theme=tokyonight&hide_border=true&background=0D1117&ring=0a66c2&fire=ea4335" width="48%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 </div>
